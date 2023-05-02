@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/owncast/owncast v0.0.13-0.20221013022700-2f0106149f1f
+	github.com/owncast/owncast v0.0.13
 	github.com/sirupsen/logrus v1.9.0
 )
 
