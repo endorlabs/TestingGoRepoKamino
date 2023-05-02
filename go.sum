@@ -22,8 +22,8 @@ github.com/oschwald/geoip2-golang v1.8.0 h1:KfjYB8ojCEn/QLqsDU0AzrJ3R5Qa9vFlx3z6
 github.com/oschwald/geoip2-golang v1.8.0/go.mod h1:R7bRvYjOeaoenAp9sKRS8GX5bJWcZ0laWO5+DauEktw=
 github.com/oschwald/maxminddb-golang v1.10.0 h1:Xp1u0ZhqkSuopaKmk1WwHtjF0H9Hd9181uj2MQ5Vndg=
 github.com/oschwald/maxminddb-golang v1.10.0/go.mod h1:Y2ELenReaLAZ0b400URyGwvYxHV1dLIxBuyOsyYjHK0=
-github.com/owncast/owncast v0.0.13-0.20221013022700-2f0106149f1f h1:bZ8qNO2+UppTzASChy3unmLPM5zDLRjBtcSPekKnDyg=
-github.com/owncast/owncast v0.0.13-0.20221013022700-2f0106149f1f/go.mod h1:bl9zMvEArzdMFV7gEAwk7YHaKBDSLR22hjNF+jEEmVQ=
+github.com/owncast/owncast v0.0.13 h1:vpYFbBczbZxlZWOWU7hekr02hTNnaf7FrxK/eNAsLJo=
+github.com/owncast/owncast v0.0.13/go.mod h1:ddgJ+JlZ5TbciTWSJaiw/qDzMDVfwv1uRxB3rQQ+ivs=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
